@@ -1,0 +1,10 @@
+# Archivos y directorios del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Respaldos de editores y temporales
+*~
+
+# Entornos de desarrollo y editores
+.vscode/
+.idea/
